@@ -57,10 +57,12 @@ INSERT INTO Boxes(Code,Contents,Value,Warehouse) VALUES('TU55','Papers',90,5);
 
 8. Select the codes of all the boxes located in Chicago.
 
-9. Create a new warehouse in New York with a capacity for 3 boxes.
+9. Find all values per each content in the Boxes table.
 
-10. Create a new box, with code "H5RT", containing "Papers" with a value of $200, and located in warehouse 2.
+10. Find the total value of all boxes.
 
 11. Reduce the value of all boxes by 15%.
 
 12. Remove all boxes with a value lower than $100.
+
+
