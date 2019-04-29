@@ -53,16 +53,12 @@ INSERT INTO Boxes(Code,Contents,Value,Warehouse) VALUES('TU55','Papers',90,5);
 
 6. Select the warehouse code and the average value of the boxes in each warehouse, but select only those warehouses where the average value of the boxes is greater than 150.
 
-7. Select the codes of all warehouses that are saturated (a warehouse is saturated if the number of boxes in it is larger than the warehouse's capacity).
+7. Find all values per each content in the Boxes table.
 
-8. Select the codes of all the boxes located in Chicago.
+8. Find the total value of all boxes.
 
-9. Find all values per each content in the Boxes table.
+9. Reduce the value of all boxes by 15%.
 
-10. Find the total value of all boxes.
-
-11. Reduce the value of all boxes by 15%.
-
-12. Remove all boxes with a value lower than $100.
+10. Remove all boxes with a value lower than $100.
 
 
